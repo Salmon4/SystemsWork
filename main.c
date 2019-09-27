@@ -1,5 +1,5 @@
 int main(){
-  int a1[] = {2,3,4,5,6};
+  int a1[] = {10,9,8,7,6};
   int a2[] = {};
   printf("Problem 1 is: %f\n", avg(a1,5));
   copy(a1,a2,5);
@@ -14,5 +14,5 @@ int main(){
   }
 
   printf("\n");
-  printf("The length of WORD is: %d", lengthOfWord("WORD"));
+  printf("The length of APPLE is: %d", lengthOfWord("APPLE"));
 }
